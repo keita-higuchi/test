@@ -1,3 +1,7 @@
 {
-    "name": "codeigniter-installer"
+    "name": "codeigniter-installer",
+    "require": {
+        "codeigniter/framework": "3.1.*"
+    }
+
 }
