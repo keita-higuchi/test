@@ -5,7 +5,7 @@
     },
     "scripts" : {
         "post-create-project-cmd": [
-            "php install.php"
+            "@php install.php"
         ]
     }
 }
